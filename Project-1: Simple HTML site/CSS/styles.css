@@ -1,0 +1,30 @@
+body{
+    background-color: #dcf7b8;
+}
+
+h1{
+    color:rgb(46, 117, 96);
+}
+
+h3{
+    color:rgb(25, 105, 18);
+}
+
+hr{
+    border-color: rgb(148, 180, 6);
+    /* border-style: none; */
+    border-top-style: dotted;
+    width: 30%;
+}
+
+.one{
+    color: orange;
+}
+.two{
+    color: blue;
+}
+.three{
+    color: green;
+}
+
+
